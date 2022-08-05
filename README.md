@@ -1,5 +1,5 @@
 # Tugas 3 HTML
-Membuat Heading Element dan Comment.
+Membuat <b><i>Icon Pavicon</i></b>, <b><i>Heading</i></b> dan <b><i>Element Paragraph</i></b>. <b><i></i></b>
 
 <h3><i>Output </i>:</h3>
 
